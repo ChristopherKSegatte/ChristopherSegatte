@@ -1,4 +1,4 @@
-## Salve salve, galerinha! :wink:
+## Salve salve, rapaziada! :wink:
 
 - :mortar_board: Estudante de Desenvolvimento de Sistemas - ETEC Registro
 - :purple_heart: Apaixonado por WebDesign
