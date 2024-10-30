@@ -1,7 +1,6 @@
 ## Salve salve, rapaziada! :wink:
 
 - :mortar_board: Estudante de Desenvolvimento de Sistemas - ETEC Registro
-- :purple_heart: Apaixonado por WebDesign
 <hr>
 <a href="https://github.com/ChristopherKSegatte/ChristopherKSegatte">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherKSegatte&layout=compact&langs_count=7&theme=dracula"/>
