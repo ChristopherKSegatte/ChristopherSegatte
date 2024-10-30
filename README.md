@@ -1,4 +1,4 @@
-## Salve salve, rapaziada! :wink:
+## Eae, me chamo Christopher Kim Segatte! :wink:
 
 - :mortar_board: Estudante de Desenvolvimento de Sistemas - ETEC Registro
 <hr>
